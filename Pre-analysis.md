@@ -1,4 +1,4 @@
-## Pre-Analysis Plan: The Structure of UN Treaty Diffusion"
+﻿## Pre-Analysis Plan: The Structure of UN Treaty Diffusion"
 ## Ki Eun Ryu, Frederick Boehmke, Olga Chyzh, Zhanna Terechshenko, Bruce Desmarais, Jeff Harden
 ## Date: 5/30/2018
 
@@ -52,6 +52,3 @@ A country’s decision to ratify an international treaty is, in part, a function
 ### Option 2
 
 - Latent space model
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMzE4NTUwNV19
--->
