@@ -1,6 +1,5 @@
 ﻿## Pre-Analysis Plan for The Structure of International Treaty Diffusion"
-## Ki Eun Ryu, Frederick Boehmke, Olga Chyzh, Zhanna Terechshenko, Bruce Desmarais,
- Jeff Harden
+## Ki Eun Ryu, Frederick Boehmke, Olga Chyzh, Zhanna Terechshenko, Bruce Desmarais, Jeff Harden
 ## Date: 5/30/2018
 
 ## Introduction
