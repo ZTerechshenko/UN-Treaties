@@ -44,7 +44,7 @@ economic treaties, and environmental treaties. As a result, we have 67 human rig
 ## Empirical Analysis
 
 Our empirical analysis is going to consist of two parts. In the first part, we infer the
-networks using the \texttt{NetInf} algorithm developed by Gomez-Rodriguez, Leskovec, and
+networks using the NetInf algorithm developed by Gomez-Rodriguez, Leskovec, and
 Krause (2010). This algorithm traces paths of diffusion and influence through networks and
 finds the most stable diffusion network. Once we infer the networks, we evaluate each
 combination of the parameters (number of edges, diffusion model parameters, and size of the
